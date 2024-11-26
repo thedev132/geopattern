@@ -9,7 +9,7 @@
     "background"
   ],
   "homepage": "http://btmills.github.io/geopattern/",
-  "bugs": "https://github.com/btmills/geopattern/issues",
+  "bugs": "https://github.com/thedev132/geopattern/issues",
   "license": "MIT",
   "contributors": [
     "Brandon Mills",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/btmills/geopattern"
+    "url": "https://github.com/thedev132/geopattern"
   },
   "dependencies": {
     "buffer": "^6.0.3",
