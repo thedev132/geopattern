@@ -31,6 +31,7 @@
     "url": "https://github.com/btmills/geopattern"
   },
   "dependencies": {
+    "buffer": "^6.0.3",
     "object-assign": "^4.1.0"
   },
   "devDependencies": {
